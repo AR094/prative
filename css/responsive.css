@@ -1,0 +1,113 @@
+
+@media (max-width: 775px){
+    /* navbar start */
+    .navbar{
+        box-shadow: 0 8px 16px 0 rgba(171, 190, 209, 0.4);
+    }
+    .navbar .navbar-toggler{
+        border: none;
+        box-shadow: none;
+    }
+    .nav-link .logo{
+        margin-left: 40px;
+    }
+    .navbar .top-menu{
+        margin-top: 20px;
+    }
+    .navbar .navbar-nav .nav-item{
+        padding: 0px 0;
+    } 
+   /* banner */
+   #banner {
+    padding: 35px 0;
+    
+   }
+   #banner .banner-img{
+    margin-right: 0;
+   }
+   #banner h1{
+    font-size: 42px;
+    margin-left: 20px;
+   }
+   #banner p{
+    text-align: start;
+    margin-left: 20px;
+   }
+   #banner .img-fluid {
+    max-width: 60%;
+   }
+   #banner .banner-button{
+    margin-left: 20px;
+   }
+   #banner .row .banner-text-parent {
+    margin-left: 0px;
+    margin-top: 10px;
+   }
+   /* banner end */
+   /* second start */
+   .container h3 {
+    font-size: 25px;
+    margin-top: 20px;
+} .container p {
+    
+    font-weight: 400;
+    font-size: 12px;
+    margin-top: 0px;
+}
+.clients-logos{
+      height: 30px;
+      
+}
+.logo-bundle{
+    margin-right: 35px;
+}
+.logos {
+    padding: 10px;
+    display: inline-block;
+    /* margin: 10px 20px; */
+    width: 8px;
+}
+   /* second end */
+   /* third start */
+   #third h3{
+    font-size: 22px;
+    margin-top: 20px;
+   }
+   .management {
+    padding: 20px 18px;
+    width: 299px;
+    height: 200px; 
+    margin: 10px 45px;
+    margin-right: 50px;
+}
+   /* third end */
+   /* FOURTH START */
+
+.banner-text-parent {
+    margin-left: 20px;
+}
+.frame-img {
+    margin-left: 0px;
+    max-width: 60%;
+    margin-top: -70px;
+}
+#four .spending {
+    width: 601px;
+    height: 268px;
+    margin-left: 20px;
+    margin-top: 0.5px;
+    text-align: justify;
+}
+#four .spending .Pixelgrade {  
+    font-size: 25px;   
+}
+#four .spending p {
+    font-size: 12px;
+    width: 380px;
+    text-align: justify;
+}
+
+   /* FOUR TH END */
+}
+/* MOBILE RESPOSIVE END*/
+
